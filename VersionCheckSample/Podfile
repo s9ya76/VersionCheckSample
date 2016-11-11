@@ -1,0 +1,21 @@
+platform :ios, '8.0'
+source 'https://github.com/CocoaPods/Specs.git'
+use_frameworks!
+
+target 'VersionCheckSample' do
+# https://github.com/Alamofire/Alamofire
+pod 'Alamofire'
+end
+
+
+target 'VersionCheckSampleTests' do
+
+end
+
+
+target 'VersionCheckSampleUITests' do
+
+end
+
+
+xcodeproj 'VersionCheckSample'
