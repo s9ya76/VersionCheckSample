@@ -1,6 +1,6 @@
 # VersionCheckSample
 ## Description
-A app version check sample on iOS.
+Automatically check for updates to iPhone App Store apps from within the app and notify users about the new release
 
 ## Notices
 The current version is working with Xcode Version 8. If you are using different Xcode version, please check out the previous releases.
